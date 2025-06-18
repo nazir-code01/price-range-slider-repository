@@ -1,0 +1,22 @@
+@media screen and (max-width:445px){
+    .price-range-slider{
+        width: 250px;
+        height: 200px;
+        margin-top: 3em;
+    }
+    .price-section{
+        width: 150px;
+    }
+    .price-text{
+        font-size: 2.5em;
+    }
+    .rupee-icon{
+        font-size: 2em;
+    }
+    .range-slider{
+        margin-left: 1em;
+    }
+    .slider{
+        width: 56%;
+    }
+}
